@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ku+TRH3MilIc7iDUhgyqaty0Hv8W17L5hdBRIWzUpdVCD7F2k2h5yzIXzW3ZFuvHeaeJjGXdamyjhnoeV4lPeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.freitas\\Documents\\Cursos\\dotnet\\dominando o mvc\\appDoZero\\AppModelo\\src\\DevIO.UISite\\DevIO.UISite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\dolkens.framework.taskrunners\\8.9.1.5\\dolkens.framework.taskrunners.8.9.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

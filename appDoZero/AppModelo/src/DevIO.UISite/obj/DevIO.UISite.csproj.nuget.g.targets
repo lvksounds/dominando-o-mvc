@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)dolkens.framework.taskrunners\8.9.1.5\build\Dolkens.Framework.TaskRunners.targets" Condition="Exists('$(NuGetPackageRoot)dolkens.framework.taskrunners\8.9.1.5\build\Dolkens.Framework.TaskRunners.targets')" />
+  </ImportGroup>
+</Project>
